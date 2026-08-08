@@ -92,8 +92,8 @@ anime:
   bilibili:
     uid: '526312322'
   tmdb:
-    apiKey: 08a6bef260044f70c150251c79f2e476
-    listId: '8556173'
+    apiKey: ''
+    listId: ''
 music:
   api: https://whzizhi.dpdns.org/music-api/api
   playlists:
