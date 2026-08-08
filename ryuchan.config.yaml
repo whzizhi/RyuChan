@@ -95,23 +95,11 @@ anime:
     apiKey: 08a6bef260044f70c150251c79f2e476
     listId: '8556173'
 music:
-  api: https://meting.mikus.ink/api
+  api: https://whzizhi.dpdns.org/music-api/api
   playlists:
-    - id: '17933567326'
+    - id: '7745502824'
       name: 我的喜欢
       server: netease
-    - id: '7039749142'
-      name: 周杰伦
-      server: tencent
-    - id: '7559655733'
-      name: 王力宏
-      server: tencent
-    - id: '17966019560'
-      name: 告五人
-      server: netease
-    - id: zhoujielun
-      name: 自定义
-      type: custom
 github:
   owner: kobaridev
   repo: RyuChan
