@@ -119,9 +119,9 @@ user:
   avatar: /profile.png
   title_image: /logo.png
   qr_wechat: >-
-    https://telegraph-image-cpb.pages.dev/file/AgACAgQAAyEGAATpwSItAAMYanYZ-G1cQTNL0lwnZVUbHfjxit0AAqAOaxv8KbFTPH-dYC8qqsUBAAMCAAN5AAM9BA.jpg
+    https://image.whzizhi.dpdns.org/file/AgACAgQAAyEGAATpwSItAAMfaoBlT3WYcgjDqEKh_sWK2DVsdjMAAsMQaxtgMwABUO1piYla8vT2AQADAgADeQADPQQ.png
   qr_alipay: >-
-    https://telegraph-image-cpb.pages.dev/file/AgACAgQAAyEGAATpwSItAAMYanYZ-G1cQTNL0lwnZVUbHfjxit0AAqAOaxv8KbFTPH-dYC8qqsUBAAMCAAN5AAM9BA.jpg
+    https://image.whzizhi.dpdns.org/file/AgACAgQAAyEGAATpwSItAAMeaoBlTWfRU0KbqRQaczbdzO2kWCEAAsIQaxtgMwABUNPb2dsufROMAQADAgADdwADPQQ.jpg
   sidebar:
     social:
       - href: https://github.com/whzizhi
